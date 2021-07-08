@@ -117,6 +117,10 @@
 
 
 
+<meta property="og:locale:alternate" content="en" />
+
+
+
 
 <meta property="og:site_name" content="European Court of Human Rights Watch" />
 
@@ -181,6 +185,19 @@
                     <span class="px-4 py-1 hover:text-eureka" name="Auto">Auto</span>
                 </div>
             </div>
+            <div class="relative pt-4 pl-4 md:pt-0">
+                <div class="cursor-pointer hover:text-eureka" id="languageMode">
+                    <i class="fas fa-globe"></i>
+                    <span class="pl-1">French - Français</span>
+                </div>
+                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
+                </div>
+                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
+                    id='languageOptions'>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://fr.ecthrwatch.org/chronologie/2012-06-25_reponse_directrice_juridique_mcdonalds_france/">French - Français</a>
+                    <a class="px-4 py-1 hover:text-eureka" href="https://www.ecthrwatch.org/timeline/2012-06-25_answer_from_mcdonalds_france_general_counsel/">English</a>
+                </div>
+            </div>
         </div>
     </div>
 
@@ -208,6 +225,7 @@
     document.addEventListener('DOMContentLoaded', () => {
         getcolorscheme();
         switchBurger();
+        switchLanguage()
     });
 </script>
 </div>
@@ -240,8 +258,8 @@
         
 
         <div class="content">
-            <p>Françoise de Borda, directrice juridique de McDonald&rsquo;s France, me réponds pour la première et pour la dernière fois. Elle ment.</p>
-<p>Dans un courrier daté du 25 juin 2012, Françoise de Borda, qui était alors directrice juridique de McDonald&rsquo;s France, me répond pour la première <em>et pour la dernière fois</em>.</p>
+            <p>Françoise de Borda, directrice juridique de McDonald’s France, me réponds pour la première et pour la dernière fois. Elle ment.</p>
+<p>Dans un courrier daté du 25 juin 2012, Françoise de Borda, qui était alors directrice juridique de McDonald’s France, me répond pour la première <em>et pour la dernière fois</em>.</p>
 <p>En dépit de mes nombreuses relances, elle ne me répondra plus jamais par la suite.</p>
         </div>
         
