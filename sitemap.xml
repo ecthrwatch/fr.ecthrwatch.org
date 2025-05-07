@@ -2,8 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fr.ecthrwatch.org/authors/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/authors/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/chronologie-des-faits/</loc>
+    <lastmod>2023-12-25T23:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/lettres-ouvertes/</loc>
+    <lastmod>2023-12-25T23:57:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/"
+                />
+  </url><url>
     <loc>https://fr.ecthrwatch.org/</loc>
-    <lastmod>2023-01-26T15:28:00+08:00</lastmod>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,8 +74,34 @@
                 href="https://fr.ecthrwatch.org/"
                 />
   </url><url>
-    <loc>https://fr.ecthrwatch.org/chronologie/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/</loc>
-    <lastmod>2022-09-15T20:22:00+08:00</lastmod>
+    <loc>https://fr.ecthrwatch.org/authors/vincent-b-le-corre/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/authors/vincent-b-le-corre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/authors/vincent-b-le-corre/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/constant-meheut/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/chronologie-des-faits/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,35 +115,34 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/chronologie/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/"
                 />
   </url><url>
-    <loc>https://fr.ecthrwatch.org/chronologie/</loc>
-    <lastmod>2023-01-26T15:28:00+08:00</lastmod>
+    <loc>https://fr.ecthrwatch.org/lettres-ouvertes/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/"
+                href="https://www.ecthrwatch.org/timeline/new-york-times-journalist-constant-meheut-understands-the-1-chance-out-of-4-fraud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zh.ecthrwatch.org/shijianzhou/"
+                href="https://zh.ecthrwatch.org/shijianzhou/niuyue-shibao-jizhe-constant-meheut-2022-05-31/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/chronologie/"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/constant-meheut-journaliste-au-new-york-times-comprend-la-fraude-une-chance-sur-quatre/"
                 />
   </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/m%C3%A9heut-constant/</loc>
-    <lastmod>2022-09-15T20:22:00+08:00</lastmod>
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/new-york-times/</loc>
-    <lastmod>2022-09-15T20:22:00+08:00</lastmod>
-  </url><url>
     <loc>https://fr.ecthrwatch.org/tags/</loc>
-    <lastmod>2023-01-26T15:28:00+08:00</lastmod>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -78,6 +157,76 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/the-new-york-times/</loc>
+    <lastmod>2025-05-04T13:16:58+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/the-new-york-times/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/the-new-york-times/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/1-chance-sur-4/</loc>
+    <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/chronologie-des-faits/explications-envoyees-a-constant-meheut-le-25-mai-2022/</loc>
+    <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/explanations-sent-to-constant-meheut-may-25-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/lettres-ouvertes/explications-envoyees-a-constant-meheut-le-25-mai-2022/</loc>
+    <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/explanations-sent-to-constant-meheut-may-25-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/explications-envoyees-a-constant-meheut-le-25-mai-2022/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/tags/mcdonalds-monopoly/</loc>
+    <lastmod>2025-05-04T12:09:56+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/mcdonalds-monopoly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/tags/mcdonalds-monopoly/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/mcdonalds-monopoly/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/attach%C3%A9-juridique-adjoint/</loc>
@@ -151,6 +300,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/federal-bureau-of-investigation/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/chronologie/</loc>
+    <lastmod>2023-01-26T15:28:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/manjarrez-mahonri/</loc>
@@ -539,13 +701,13 @@
     <lastmod>2022-02-24T15:05:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/shijianzhou/2021-10-05_email_answer_sent_to_messrs_rogalski_and_manjarrez/"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/2021-10-05_i_send_the_fbi_scans_of_my_id_cards_to_identify_myself/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -735,6 +897,16 @@
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/emmanuel-macron/</loc>
     <lastmod>2021-07-08T11:32:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/tags/emmanuel-macron/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/tags/emmanuel-macron/"
+                />
   </url><url>
     <loc>https://fr.ecthrwatch.org/personnes/macron_emmanuel/</loc>
     <lastmod>2021-07-08T11:32:00+08:00</lastmod>
@@ -814,24 +986,6 @@
                 href="https://fr.ecthrwatch.org/autres-sites/"
                 />
   </url><url>
-    <loc>https://fr.ecthrwatch.org/authors/</loc>
-    <lastmod>2021-03-31T13:11:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/authors/"
-                />
-  </url><url>
     <loc>https://fr.ecthrwatch.org/posts/diagram-support/</loc>
     <lastmod>2021-03-31T13:11:22+08:00</lastmod>
   </url><url>
@@ -871,19 +1025,6 @@
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/granville-kevin/</loc>
     <lastmod>2022-04-28T20:29:00+08:00</lastmod>
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/the-new-york-times/</loc>
-    <lastmod>2022-04-28T20:29:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/the-new-york-times/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/the-new-york-times/"
-                />
   </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/2020-12-09_email_to_kevin_granville/</loc>
     <lastmod>2022-04-28T20:15:00+08:00</lastmod>
@@ -1122,13 +1263,13 @@
     <lastmod>2022-08-09T09:22:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/2019-09-27_answer_from_french_anticorruption_association_anticor/"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/shijianzhou/2019-09-27_answer_from_french_anticorruption_association_anticor/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/shijianzhou/2019-09-27_answer_from_french_anticorruption_association_anticor/"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/2019-09-27_answer_from_french_anticorruption_association_anticor/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1276,7 +1417,7 @@
     <lastmod>2023-01-26T15:28:00+08:00</lastmod>
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/yves-strickler/</loc>
-    <lastmod>2023-01-26T15:28:00+08:00</lastmod>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -1434,17 +1575,48 @@
                 href="https://fr.ecthrwatch.org/affaires/29855-18/"
                 />
   </url><url>
+    <loc>https://fr.ecthrwatch.org/chronologie-des-faits/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/</loc>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/2017-07-04_0142_0800_email_reply_from_strickler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/"
+                />
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/lettres-ouvertes/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/</loc>
+    <lastmod>2023-12-18T10:55:00+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/chronologie-des-faits/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.ecthrwatch.org/timeline/2017-07-04_0142_0800_email_reply_from_strickler/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://fr.ecthrwatch.org/lettres-ouvertes/demande-provisoire-aide-juridictionnelle-et-procedure-de-refere/"
+                />
+  </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/email-du-professeur-yves-strickler-2017-07-04/</loc>
     <lastmod>2022-08-17T10:13:00+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/shijianzhou/2017-07-04_0142_0800_email_reply_from_strickler/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/2017-07-04_0142_0800_email_reply_from_strickler/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1522,24 +1694,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/gloria-santona/"
-                />
-  </url><url>
-    <loc>https://fr.ecthrwatch.org/tags/mcdonalds-monopoly/</loc>
-    <lastmod>2022-09-27T21:14:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zh.ecthrwatch.org/tags/mcdonalds-monopoly/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/mcdonalds-monopoly/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/mcdonalds-monopoly/"
                 />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/mcdonalds-usa/</loc>
@@ -1926,11 +2080,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/to-translate/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://fr.ecthrwatch.org/tags/to-translate/"
                 />
@@ -1976,16 +2125,6 @@
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/i-sold-my-sould-to-mcdonalds/</loc>
     <lastmod>2022-09-21T20:12:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/i-sold-my-sould-to-mcdonalds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/i-sold-my-sould-to-mcdonalds/"
-                />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/jean-pierre-petit/</loc>
     <lastmod>2022-09-21T20:12:00+08:00</lastmod>
@@ -2028,16 +2167,6 @@
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/to-improve/</loc>
     <lastmod>2022-09-21T20:12:00+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/tags/to-improve/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/tags/to-improve/"
-                />
   </url><url>
     <loc>https://fr.ecthrwatch.org/tags/fran%C3%A7oise-de-borda/</loc>
     <lastmod>2022-09-21T20:49:00+08:00</lastmod>
@@ -2125,11 +2254,6 @@
     <loc>https://fr.ecthrwatch.org/fraudes/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/mcdonalds-pattern-of-racketeering-activity/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh"
                 href="https://zh.ecthrwatch.org/frauds-and-crimes/"
                 />
@@ -2204,27 +2328,24 @@
     <loc>https://fr.ecthrwatch.org/speculations/</loc>
   </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/cases_mcdonalds_events_all_importance_high/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/cases_mcdonalds_events_all_importance_high/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://fr.ecthrwatch.org/chronologie/cases_mcdonalds_events_all_importance_high/"
-                />
   </url><url>
     <loc>https://fr.ecthrwatch.org/chronologie/cases_all_events_all_importance_all/</loc>
+  </url><url>
+    <loc>https://fr.ecthrwatch.org/authors/x/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.ecthrwatch.org/timeline/cases_all_events_all_importance_all/"
+                href="https://www.ecthrwatch.org/authors/x/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zh.ecthrwatch.org/authors/x/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://fr.ecthrwatch.org/chronologie/cases_all_events_all_importance_all/"
+                href="https://fr.ecthrwatch.org/authors/x/"
                 />
   </url>
 </urlset>
